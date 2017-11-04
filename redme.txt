@@ -3,3 +3,4 @@ zmiana 2
 3 43 ad 
 change 4 
 change 5
+chenge 6
